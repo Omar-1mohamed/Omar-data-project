@@ -19,3 +19,6 @@ This project showcases how to clean, model, and analyze sales data using built-i
 ## 📷 Dashboard Preview:
 ![Dashboard Preview](dashboard.png)
 
+🎥 Check out a short demo video of the dashboard [here](https://drive.google.com/file/d/1R9OWgYrObtaC-8aCpKl0uuX-8ZIvGNY-/view?usp=sharing).
+
+
